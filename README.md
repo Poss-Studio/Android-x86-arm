@@ -1,4 +1,4 @@
-​<h1 align="center">:rocket: Genymotion_ARM_Translation :rocket: </h1>
+​<h1 align="center">:rocket: Android translate project:rocket: </h1>
 
 <p align="center">
 <a href="https://github.com/m9rc0">
@@ -9,7 +9,7 @@
 </a>
 </p>
 
-## Genymotion Translation
+## packages
 
 ```
 ├── LICENSE
